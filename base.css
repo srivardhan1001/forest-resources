@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(205, 235, 205);
+    font-family : 'Overpass Mono', monospace;
+    color: #050404;
+}
+
+a
+{
+    text-decoration: none;
+    color: #1a181800;
+}
+
+a:hover
+{
+    color: #69f0ae;
+}
+
+.hide
+{
+    display: none;
+}
